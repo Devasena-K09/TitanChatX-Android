@@ -57,6 +57,7 @@ To build a digital empire where players can **connect, compete, and conquer** in
 - ### 🔻 TitanChatX UI Preview
 
 ![Home Screen](https://github.com/NiruX/TitanChatX-Android/blob/main/images/home-screen.png?raw=true)](https://github.com/Devasena-K09/TitanChatX-Android/blob/main/TitanChatX%20game.png?raw=true)
+🔗 [Live Teaser Website](https://devasena-k09.github.io/TitanChatX-Android/website/)
 
 
 ---

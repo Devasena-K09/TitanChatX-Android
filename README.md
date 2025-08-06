@@ -6,65 +6,77 @@
 
 ---
 
-## 🚀 Features
+# 🛡️ TitanChatX – Android Multiplayer Chat + Battle App
 
-### 💬 Chat Section:
-- End-to-end encrypted messages
-- Sleek, electric UI
-- Chat bubble + Game controller UI design
-- Group & private chats
-- Game invites from chat
-
-### 🎮 Game Section:
-- **Modes**: Clash Squad, Battle Royale
-- **12+ Unique Characters** with active & passive skills
-- **Gun Skins**, **Battle Pass**, and **Weekly Events**
-- **Subscription Plans**:  
-  - ₹500/week  
-  - ₹1000/month  
-  - ₹1800/year
+Welcome to **TitanChatX**, a real-time multiplayer Android chat app fused with intense mini-battles. Built for futuristic warriors who want to **chat, strategize, and conquer** – all in one app.
 
 ---
 
-## 🧠 Tech Stack
-- **Frontend**: Java/Kotlin (Android Studio)
-- **Backend**: Firebase + Node.js (Future)
-- **Game Engine**: Unity / Godot (TBD)
-- **Design**: Figma + AI Assets
-- **Version Control**: GitHub
+## 🚀 Live Teaser Website  
+🔗 [TitanChatX Teaser Website](https://devasena-k09.github.io/TitanChatX-Android/website/)
 
 ---
 
-## 🔥 Our Vision
-To build a digital empire where players can **connect, compete, and conquer** in one seamless app.
+## 📸 Preview  
+_(Screenshots will be added soon!)_
 
 ---
 
-## 📅 Status
-**Development Phase** – Started July 2025  
-🚧 Currently working on:
-- Game map: *Nova City, Valkyrie Crater, Plasma Forest...*
-- Character skills system
-- Sound & SFX integration
+## ✨ Features
+
+- 🔊 Real-time text chat
+- 🕹️ Mini battle games (future update)
+- 🛡️ Room-based multiplayer system
+- 🔐 Firebase authentication
+- ⚔️ Custom battle maps (Nova City coming soon!)
 
 ---
 
-## 💡 Next Goals
-- Upload beta game build
-- Add chat module
-- UI/UX polish
-- Launch private alpha test
-- ### 🔻 TitanChatX UI Preview
+## 🧰 Tech Stack
 
-![Home Screen](https://github.com/NiruX/TitanChatX-Android/blob/main/images/home-screen.png?raw=true)](https://github.com/Devasena-K09/TitanChatX-Android/blob/main/TitanChatX%20game.png?raw=true)
-🔗 [Live Teaser Website](https://devasena-k09.github.io/TitanChatX-Android/website/)
+| Category      | Tools Used                      |
+| ------------- | ------------------------------- |
+| Language      | Kotlin / Java (Android)         |
+| Backend       | Firebase Auth, Firestore        |
+| UI            | Jetpack Compose / XML (TBD)     |
+| Game Engine   | Unity (for future game module)  |
+| Website       | HTML + CSS (GitHub Pages)       |
+| Versioning    | Git + GitHub                    |
+
+---
+
+## 📦 Folder Structure (basic)
 
 
 ---
 
-> Made with love by **Devasena (Niru)** 🦋  
-> Powered by **Novolixiara**
+## 🛠️ Installation (Coming Soon)
 
-🌐 [Website coming soon]  
-📧 [Contact: chatgaming.nextgen@gmail.com]
+We’ll soon release a public `.apk` + instructions to clone & run the code.
+
+---
+
+## 🙋‍♀️ Credits
+
+Built with ❤️ by [Devasena K.](https://github.com/Devasena-K09)  
+Co-pilot: `Tuti` 🤖 (your AI dev assistant)
+
+---
+
+## ⭐ Show Some Love
+
+If you liked this project:
+
+🌟 Star this repo  
+🔁 Share it  
+📥 Fork it
+
+---
+
+## 📅 Roadmap & Issues
+
+Check out the [Projects Tab](https://github.com/Devasena-K09/TitanChatX-Android/projects) for what’s next!  
+Have ideas? [Create a new Issue](https://github.com/Devasena-K09/TitanChatX-Android/issues/new)
+
+---
 

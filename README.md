@@ -45,10 +45,28 @@ _(Screenshots will be added soon!)_
 
 ---
 
-## 📦 Folder Structure (basic)
-
+## 🔥 Our Vision
+To build a digital empire where players can **connect, compete, and conquer** in one seamless app.
 
 ---
+
+## 📅 Status
+**Development Phase** – Started July 2025  
+🚧 Currently working on:
+- Game map: *Nova City, Valkyrie Crater, Plasma Forest...*
+- Character skills system
+- Sound & SFX integration
+
+---
+
+## 💡 Next Goals
+- Upload beta game build
+- Add chat module
+- UI/UX polish
+- Launch private alpha test
+
+---
+
 
 ## 🛠️ Installation (Coming Soon)
 
@@ -72,6 +90,10 @@ If you liked this project:
 📥 Fork it
 
 ---
+> Made with love by **Devasena (Niru)** 🦋  
+> Powered by **Novolixiara**
+
+📧 [Contact: chatgaming.nextgen@gmail.com]
 
 ## 📅 Roadmap & Issues
 

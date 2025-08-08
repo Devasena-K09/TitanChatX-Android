@@ -1,0 +1,24 @@
+# System files
+*.log
+*.tmp
+*.DS_Store
+
+# Java/Android/IDE
+.gradle/
+build/
+local.properties
+*.iml
+/.idea/
+
+# Python
+__pycache__/
+
+# Node
+node_modules/
+
+# Unity
+Library/
+Temp/
+Obj/
+Build/
+Builds/

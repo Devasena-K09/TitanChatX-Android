@@ -40,7 +40,7 @@ TitanChatX is a revolutionary Android app that merges high-speed encrypted messa
 
 ## 🙋‍♀️ Credits
 
-Built with ❤️ by [Devasena K.](https://github.com/Devasena-K09)  
+Built with ❤️ by [Niru](https://github.com/Devasena-K09)  
 Co-pilot: `Tuti` 🤖 (your AI dev assistant)
 
 ---

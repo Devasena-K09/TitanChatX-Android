@@ -61,3 +61,20 @@ def main_menu():
 if __name__ == "__main__":
     launch_screen()
     main_menu()
+
+from chat import start_chat
+
+print("1. Chat Mode")
+print("2. Game Lobby")
+print("3. Exit")
+
+choice = input("Select option: ")
+
+if choice == "1":
+    start_chat()
+elif choice == "2":
+    print("🎮 Game Lobby Coming Soon...")
+elif choice == "3":
+    print("👋 Goodbye!")
+else:
+    print("❌ Invalid Option")

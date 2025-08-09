@@ -3,14 +3,17 @@
 import random
 import time
 
+# Contact list
 contacts = ["Riya", "Aarav", "Tuti-Bot 🤖", "FreeFire Buddy 🔫"]
 
+# Pre-set AI replies
 replies = [
     "Haan bolo...",
     "Abhi busy hu, baad me msg karna.",
     "😂😂😂",
     "Kya baat hai, tum serious lag rahi ho!",
-    "Mission ready hai, bas tumhara signal chahiye 🚀"
+    "Mission ready hai, bas tumhara signal chahiye 🚀",
+    "Lekin tum jeet paogi? 😏"
 ]
 
 def start_chat():
@@ -35,6 +38,9 @@ def chat_with(contact):
         msg = input("You: ")
         if msg.lower() == "exit":
             break
+        if msg.strip() == "":
+            print("❌ Please type something!")
+            continue
         print("Typing...", end="\r")
         time.sleep(random.uniform(0.5, 1.5))
         print(f"{contact}: {random.choice(replies)}")

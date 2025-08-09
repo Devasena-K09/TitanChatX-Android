@@ -25,3 +25,5 @@ def start_lobby():
         time.sleep(1)
 
     print("\n🚀 Match Started! Good luck, warrior!")
+    from ai_assistant import get_ai_reply
+print(f"🤖 AI Tip: {get_ai_reply('game')}")

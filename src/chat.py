@@ -43,4 +43,5 @@ def chat_with(contact):
             continue
         print("Typing...", end="\r")
         time.sleep(random.uniform(0.5, 1.5))
-        print(f"{contact}: {random.choice(replies)}")
+        from ai_assistant import get_ai_reply
+print(f"{contact}: {get_ai_reply(msg)}")
